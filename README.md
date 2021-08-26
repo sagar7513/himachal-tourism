@@ -1,4 +1,4 @@
-# design_system_platform
+
 
 ## Project Setup
 ```
